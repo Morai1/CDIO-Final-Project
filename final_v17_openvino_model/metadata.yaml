@@ -1,0 +1,23 @@
+description: Ultralytics final_v17 model trained on /content/cdio_4-8/data.yaml
+author: Ultralytics
+date: '2024-06-21T21:58:51.538293'
+version: 8.2.31
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: big_goal
+  1: cross
+  2: egg
+  3: field
+  4: orange_ball
+  5: robot
+  6: robot_back
+  7: robot_front
+  8: small_goal
+  9: white_ball
